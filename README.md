@@ -4,9 +4,12 @@ My name is Nick Nikeforou and I'm an iOS Developer & Data Analyst from London, U
 
 # Social Channels 🤝
 
-![Twitter Follow](https://img.shields.io/twitter/follow/CodeByNick?label=%40CodeByNick&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/CodeByNick?label=%40CodeByNick&style=social)](https://www.twitter.com/codebynick)
 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+
+[![Star on GitHub](https://img.shields.io/badge/GitHub-Star-blue?logo=github)](https://www.google.com)
+
 
 # Tech & Tools 📱
 
@@ -15,3 +18,12 @@ My name is Nick Nikeforou and I'm an iOS Developer & Data Analyst from London, U
 ![](https://img.shields.io/badge/-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/-SQL-informational?style=flat&logo=SQLite&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/-Excel-informational?style=flat&logo=Microsoft&logoColor=white&color=FFA500)
+
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Apple-MacBook_Pro-999999?style=for-the-badge&logo=apple&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=Sketch&logoColor=white"/>
