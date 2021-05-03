@@ -6,10 +6,7 @@ My name is Nick Nikeforou and I'm an iOS Developer & Data Analyst from London, U
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/CodeByNick?label=%40CodeByNick&style=social)](https://www.twitter.com/codebynick)
 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-
-[![Star on GitHub](https://img.shields.io/badge/GitHub-Star-blue?logo=github)](https://www.google.com)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%40CodeByNick-red)](https://www.instagram.com/codebynick)
 
 # Tech & Tools 📱
 
