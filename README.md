@@ -10,8 +10,8 @@ My name is Nick Nikeforou and I'm an iOS Developer & Data Analyst from London, U
 
 # Tech & Tools 📱
 
-![](https://img.shields.io/badge/-UIKit-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-SwiftUI-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=FFA500)
-![](https://img.shields.io/badge/-SQL-informational?style=flat&logo=SQLite&logoColor=white&color=FFA500)
-![](https://img.shields.io/badge/-Excel-informational?style=flat&logo=Microsoft&logoColor=white&color=FFA500)
+![](https://img.shields.io/badge/-UIKit-informational?style=plastic&logo=Apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-SwiftUI-informational?style=plastic&logo=Apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Tableau-informational?style=plastic&logo=Tableau&logoColor=white&color=FFA500)
+![](https://img.shields.io/badge/-SQL-informational?style=plastic&logo=SQLite&logoColor=white&color=FFA500)
+![](https://img.shields.io/badge/-Excel-informational?style=plastic&logo=Microsoft&logoColor=white&color=FFA500)
