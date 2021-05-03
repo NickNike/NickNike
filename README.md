@@ -4,7 +4,7 @@ My name is Nick Nikeforou and I'm an iOS Developer & Data Analyst from London, U
 
 # Social Channels 🤝
 
-![Twitter Follow](https://img.shields.io/twitter/follow/CodeByNick?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/CodeByNick?label=%40CodeByNick&style=social)
 
 ![](https://img.shields.io/badge/-Instagram-informational?style=social&logo=Instagram&logoColor=white&color=000000)
 
