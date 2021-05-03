@@ -2,7 +2,7 @@
 
 My name is Nick Nikeforou and I'm an iOS Developer & Data Analyst from London, UK. 
 
-Creator of [@CoffeeCupsApp](https://www.twitter.com/coffeecupsapp)
+Creator of [@CoffeeCupsApp](https://apps.apple.com/us/app/coffee-cups/id1558556370)
 
 ![](https://komarev.com/ghpvc/?username=nicknike)
 
