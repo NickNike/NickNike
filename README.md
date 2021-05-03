@@ -2,6 +2,8 @@
 
 My name is Nick Nikeforou and I'm an iOS Developer & Data Analyst from London, UK. 
 
+![](https://komarev.com/ghpvc/?username=nicknike)
+
 # Social Channels 🤝
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/CodeByNick?label=%40CodeByNick&style=social)](https://www.twitter.com/codebynick)
