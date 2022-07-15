@@ -1,6 +1,6 @@
 # Welcome 👋
 
-My name is Nick Nikeforou and I'm an iOS Developer & Data Analyst from London, UK. 
+My name is Nick Nikeforou and I'm an iOS Developer & Data Engineer from London, UK. 
 
 Creator of [@CoffeeCupsApp](https://apps.apple.com/us/app/coffee-cups/id1558556370)
 
