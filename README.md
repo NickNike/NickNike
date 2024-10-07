@@ -2,7 +2,7 @@
 
 My name is Nick Nikeforou and I'm a Data Engineer & iOS Developer from London, UK. 
 
-Creator of [@CoffeeCupsApp](https://apps.apple.com/us/app/coffee-cups/id1558556370), [@TradeTrackApp](https://t.co/qgwcLothMB) & [@HappySoulApp](https://apps.apple.com/gb/app/happy-soul/id1663503637)
+Creator of [@CoffeeCupsApp](https://apps.apple.com/us/app/coffee-cups/id1558556370), [@TradeTrackApp](https://t.co/qgwcLothMB), [@HappySoulApp](https://apps.apple.com/gb/app/happy-soul/id1663503637) & [@CouplesExpenseTracker](https://apps.apple.com/us/app/couples-expense-tracker/id6476325272)
 
 ![](https://komarev.com/ghpvc/?username=nicknike)
 
